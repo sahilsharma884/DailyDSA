@@ -30,3 +30,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+push_daily_dsa.bat
+push_daily_dsa2.bat
