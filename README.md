@@ -6,4 +6,4 @@
 | 2025-06-01 | Hackerrank | Jumping on the Clouds: Revisited | [Code](HackerrankProblems/src/main/java/algo/implementation/easy_jumping_on_the_clouds.java) | 
 | 2025-12-14 | Hackerrank | Grading Students | [Code](HackerrankProblems/src/main/java/algo/implementation/grading_students.java) |
 | 2025-12-15 | Hackerrank | Lonely Integer | [Code](HackerrankProblems/src/main/java/algo/implementation/lonely_integer.java) |
-| 2025-12-15 | The Great XO | ~1 | [Code](HackerrankProblems/src/main/java/algo/implementation/the_great_xor.java) | 
+| 2025-12-15 | Hackerrank | The Great XOR | [Code](HackerrankProblems/src/main/java/algo/implementation/the_great_xor.java) | 
