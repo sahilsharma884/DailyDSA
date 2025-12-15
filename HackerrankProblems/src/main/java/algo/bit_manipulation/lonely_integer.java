@@ -1,4 +1,4 @@
-package algo.implementation;
+package algo.bit_manipulation;
 
 import java.util.List;
 
