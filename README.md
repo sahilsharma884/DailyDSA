@@ -8,3 +8,4 @@
 | 2025-12-15 | Hackerrank | Lonely Integer | [Code](HackerrankProblems/src/main/java/algo/implementation/lonely_integer.java) |
 | 2025-12-15 | Hackerrank | The Great XOR | [Code](HackerrankProblems/src/main/java/algo/implementation/the_great_xor.java) | 
 | 2025-12-19 | Leetcode | Permutations | [Code](LeetcodeProblems/src/permutations.java) | 
+| 2026-01-11 | Hackerrank | Big Sorting | [Code](HackerrankProblems/src/main/java/algo/sorting/big_sorting.java) | 
