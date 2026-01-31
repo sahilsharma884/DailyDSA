@@ -10,3 +10,4 @@
 | 2025-12-19 | Leetcode | Permutations | [Code](LeetcodeProblems/src/permutations.java) | 
 | 2026-01-11 | Hackerrank | Big Sorting | [Code](HackerrankProblems/src/main/java/algo/sorting/big_sorting.java) | 
 | 2026-01-31 | Leetcode | Longest Palindromic Substring | [Code](LeetcodeProblems/src/Longest_Palindromic_Substring.java) | 
+| 2026-01-31 | Leetcode | House Robber | [Code](LeetcodeProblems/src/House_Robber.java) | 
